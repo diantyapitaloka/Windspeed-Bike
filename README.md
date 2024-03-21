@@ -99,6 +99,7 @@ plt.ylabel('windspeed')
 plt.show()
 ```
 
+
 ![image](https://github.com/diantyapitaloka/Windspeed-Bike/assets/147487436/66944265-58b0-41c1-ba12-e6adf7b0b607)
 
 
