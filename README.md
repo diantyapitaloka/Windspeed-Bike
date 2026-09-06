@@ -10,7 +10,7 @@
 - Societal Benefits: Cities are heavily prioritizing these programs today because they directly alleviate traffic congestion, in addition the lower carbon emissions, and promote active, and healthy lifestyles.
 - Global Scale: The industry has exploded to include more than 500 active programs worldwide, collectively deploying like global fleet of over half millions of the bikes.
 - Point-to-Point Flexibility: These networks give riders the freedom to unlock a bicycle at one docking station and conveniently park it at an entirely different with all of the location across the towns.
-- Automated Fleet Evolution: Modern bike-sharing platforms have completely revolutionized traditional rentals by fully automating everything from registrations to pickup and drop-off.
+- Automated Fleet Evolution: Modern bike-sharing platforms have completely revolutionized traditional rentals by fully automating everything from registration to pickup and drop-off.
 - Hence, it is expected that most of important events in the city could be detected via monitoring all these data.
 
 ## 🍯🍬🍭 Load Data 🍭🍬🍯
